@@ -64,9 +64,7 @@ switch (lex->sql_command)
 
 ## 2、execute
 
-```
 
-```
 
 位置：`sql/sql_insert.cc/Sql_cmd_insert::execute  `
 函数签名：`bool Sql_cmd_insert::execute(THD *thd) `
