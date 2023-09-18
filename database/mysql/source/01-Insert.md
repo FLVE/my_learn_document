@@ -109,13 +109,5 @@ bool do_command(THD *thd){
 }
 ```
 
-
-
-
-
-
-
-```
-
-```
+ 
 
